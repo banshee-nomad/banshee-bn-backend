@@ -49,10 +49,27 @@ const newTripRequestEmailTemplate = (data) => {
         </div>
     </div>
     <div class="row">
+<<<<<<< d87d8275fccef0f2ff320588e9c3cc2536e625d0
+=======
+<<<<<<< 049f8f95b2b3976a8de02a57b72fb4ed3240c499
+>>>>>>> feat(inApp-notification): Implement in-app notification feature for new
         <div class="half-row">
             <div class="dataclip-header text-format">
                 Start Location</div>
             <div class="dataclip-body text-format">
+<<<<<<< d87d8275fccef0f2ff320588e9c3cc2536e625d0
+=======
+=======
+        <div>
+            <div
+                class="dataclip-header">
+                <i class="material-icons align-icons">
+                    my_location
+                </i>
+                Start Location</div>
+            <div class="dataclip-body-line">
+>>>>>>> feat(inApp-notification): Implement in-app notification feature for new
+>>>>>>> feat(inApp-notification): Implement in-app notification feature for new
                 <div>${requeterStartLocation}</div>
             </div>
         </div>
